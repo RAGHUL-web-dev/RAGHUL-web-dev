@@ -2,7 +2,7 @@
 
 # RAGHUL
 
-### Computer Science Engineering Student · Software Engineer · AI/ML Builder
+### Software Developer · Full-Stack Developer · AI/ML Builder
 
 Building full-stack applications, AI systems and software that solve real-world problems.
 
